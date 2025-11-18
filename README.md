@@ -1,6 +1,6 @@
 # Android Bloatware Uninstaller
 
-This is a simple shell script to uninstall an bloatwares using ADB.
+This is a simple shell script to uninstall any bloatwares using ADB.
 
 ## Usage
 
